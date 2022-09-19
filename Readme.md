@@ -42,3 +42,29 @@ $b = 7;
 
     print array
 
+## Цитаты
+Для их оформления применяется знак ">". 
+
+Пример:
+
+> Выберите себе работу по душе, и вам не придется работать ни одного дня в своей жизни. Конфуций
+
+## Ссылки
+Существует два варианта оформления ссылок. 
+Первый - обычная вставка в текст:
+
+[Программа Visual Studio Cod] (https://code.visualstudio.com/ VSCod)
+
+Второй вариант - оформление ссылки в виде сноски.
+
+Для скачивания git воспользуйтесь [Windows] [1] [macOS] [2] [Linux] [3]
+
+[1] https://git-scm.com/download/win "Windows"
+
+[2] https://git-scm.com/download/mac "macOS"
+
+[3] https://git-scm.com/download/linux "Linux"
+
+
+
+
