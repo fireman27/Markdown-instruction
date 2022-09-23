@@ -92,6 +92,9 @@ $b = 7;
 
 `Используйте if`
 
+## Работа с цветом
+
+
 ## Горячие клавиши
 [ссылка] (https://www.nikomedvedev.ru/other/vscodeshortcuts/hotkeys.html все команды)
 
