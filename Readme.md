@@ -95,8 +95,8 @@ $b = 7;
 ## Работа с цветом
 цвет добавляется к содержимому двумя способами:
 
-использовать встроенный HTML для стилей
-Поскольку Markdown преобразован в HTML-код. Большинство парсеров уценки поддерживают HTML-код.
+1. *использовать встроенный HTML для стилей
+Поскольку Markdown преобразован в HTML-код. Большинство парсеров уценки поддерживают HTML-код.*
 
 Итак, напишите встроенный HTML-код в содержимом. Добавлен тег span со встроенными стилями для изменения цвета, веса и размера шрифта.
 
@@ -106,20 +106,21 @@ $b = 7;
     markdown color font styles
 </span>
 
-Другой способ определения стилей CSS
+2. *Другой способ определения стилей CSS
 Определите стили CSS с помощью селектора, как показано ниже.
-добавить содержимое внутри тегов селектора
+
+добавить содержимое внутри тегов селектора*  
 <style>
 red { color: red }
 yellow { color: yellow }
 </style>
 
-<red> red color markdown text</red>
-<yellow> red color markdown text</yellow>
+<red> красный цыет markdown</red>
+<yellow> желтый цвет markdown</yellow>
 
 Сгенерированный HTML
-<p><red> red color markdown text</red>
-<yellow> red color markdown text</yellow></p>
+<p><red> красный цвет markdown</red>
+<yellow> желтый цвет markdown</yellow></p>
 
 
 
